@@ -1,0 +1,6 @@
+Fabio Quintanilha, 123456789, Computer Science
+Gabriel Salino, 908765432, Computer Science
+Joe Catana, 223880974, Computer Science
+Jessika Pitek, 892367548, Computer Science 
+Alin Brewit, 100376769, CIS
+Talia Gorden, 330332185, CIS
